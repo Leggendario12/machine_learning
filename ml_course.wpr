@@ -1,0 +1,10 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('Data Preprocessing.ipynb'),
+                  loc('Data.csv'),
+                  loc('data_processing_templates.py')]
+proj.file-type = 'shared'
